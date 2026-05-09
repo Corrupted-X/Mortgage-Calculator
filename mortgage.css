@@ -1,0 +1,37 @@
+﻿/*Mortgage Style Sheet*/
+
+
+body {
+    font-family: Georgia, serif;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: solid 2px black;
+    padding: 1em;
+    background-color: #E7E7E7;
+}
+
+div.titles{
+    text-align: center;
+}
+
+h2
+{
+  font-size: 1em;  
+}
+
+button {
+    border-radius: 8px;
+    padding: 1em;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+button.submit {    
+    background-color: #5F7B94;
+}
+
+#rate {
+    accent-color: #5F7B94;
+}
